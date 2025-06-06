@@ -1,3 +1,11 @@
 # quick-setup
 
-This repository contains shell script(s) to automate installation of essential tools on a freshly installed OS.
+Shell script(s) to automate setup on a freshly installed OS.
+
+## Usage
+
+### ubuntu
+```
+curl -fsSL https://raw.githubusercontent.com/jurekkow/quick-setup/main/ubuntu/setup.sh | sudo sh
+```
+
